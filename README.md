@@ -14,7 +14,7 @@ The launch is carried out from under the command line.
 After entering the executable file, you must enter the username and password separated by spaces. For example `\ path_to_app \ name_app.exe LittlePony95 12345`. If the specified account does not exist, the program will offer to create one. Symbols should not be used when creating a new login, as this will create problems when creating a repository name in the file system. When creating an account, a repository with the specified name will be created in the program directory.
 The following commands will be available for the storage operation.
 
-1. "file upload"
+`1. "file upload"
 2. "file download"
 3. "file move"
 4. "file remove"
@@ -23,7 +23,7 @@ The following commands will be available for the storage operation.
 7. "file search"
 8. "file export"
 9. "help"
-10. "exit"
+10. "exit"`
 
 A description of the programs is available - [here](https://azuredevops.godeltech.com/DefaultCollection/DotNet%20Mastery%20for%20Beginners/_wiki/wikis/DotNet-Mastery-for-Beginners.wiki/7/Lab-02.-.NET-Core).
 at the command line and add your username and password after a space.
