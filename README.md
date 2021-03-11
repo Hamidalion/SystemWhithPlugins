@@ -14,15 +14,16 @@ The launch is carried out from under the command line.
 After entering the executable file, you must enter the username and password separated by spaces. For example `\ path_to_app \ name_app.exe LittlePony95 12345`. If the specified account does not exist, the program will offer to create one. Symbols should not be used when creating a new login, as this will create problems when creating a repository name in the file system. When creating an account, a repository with the specified name will be created in the program directory.
 The following commands will be available for the storage operation.
 
-<li>"file upload"
-"file download"
-"file move"
-"file remove"
-"file info"
-"user info"
-"file search"
-"file export"
-"help"
-"exit"
+1. "file upload"
+2. "file download"
+3. "file move"
+4. "file remove"
+5. "file info"
+6. "user info"
+7. "file search"
+8. "file export"
+9. "help"
+10. "exit"
+
 A description of the programs is available here.
 at the command line and add your username and password after a space.
