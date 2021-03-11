@@ -1,11 +1,9 @@
-# Lab 02. File Storage#
+# Lab 02. File Storage #
 
 ## Acquaintance ##
-
 This is a program created as part of an internship.
 
 #### Purpose ####
-
 Acquiring basic dotnet core and BCL skills. Acquaintance with XML, JSON.
 The tasks was executed using dotnet core.
 The tasks were completed in full, including additional tasks.
