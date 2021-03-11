@@ -1,4 +1,4 @@
-# Project whith system pludins. #
+# Lab 02. .NET Core #
 
 ##I try to write readme files##
 
