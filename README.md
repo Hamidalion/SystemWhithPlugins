@@ -25,5 +25,5 @@ The following commands will be available for the storage operation.
 9. "help"
 10. "exit"
 
-A description of the programs is available here. https://azuredevops.godeltech.com/DefaultCollection/DotNet%20Mastery%20for%20Beginners/_wiki/wikis/DotNet-Mastery-for-Beginners.wiki/7/Lab-02.-.NET-Core
+A description of the programs is available - [here](https://azuredevops.godeltech.com/DefaultCollection/DotNet%20Mastery%20for%20Beginners/_wiki/wikis/DotNet-Mastery-for-Beginners.wiki/7/Lab-02.-.NET-Core).
 at the command line and add your username and password after a space.
